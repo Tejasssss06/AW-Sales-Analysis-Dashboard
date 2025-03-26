@@ -6,7 +6,7 @@ The objective of this project is to analyze sales performance, identify revenue 
 - <a href= "https://github.com/Tejasssss06/AW-Sales-Analysis-Dashboard/commit/f39a6f744aee219c23b1489e55ae0c18e00321a7">Dataset</a>
 
 ## Dashboard
--<a href= "https://github.com/Tejasssss06/AW-Sales-Analysis-Dashboard/commit/fc890b0df413c864ba4c4cf0a0e1396619b8b21e">AW Sales Analysis Dashboard</a>
+- <a href= "https://github.com/Tejasssss06/AW-Sales-Analysis-Dashboard/commit/fc890b0df413c864ba4c4cf0a0e1396619b8b21e">AW Sales Analysis Dashboard</a>
 
 ## Key Insights & Business Impact
 - **Sales Trends & Revenue Analysis** – Identified top-performing products and seasonal trends.
